@@ -8,7 +8,7 @@ This Power BI dashboard analyzes key HR metrics. It helps identify trends in emp
 
 ## Technologies Used:
 
-- **Power BI**: For data visualization.
+- **Power BI**: For visualization.
 - **GitHub**: For documentation.
 
 ## Key Features:
@@ -28,16 +28,16 @@ Using a Clustered Bar Chart. This helps to determine number of employees that le
 - **Attrition Rate by Age Band:**
 Using the Stacked Bar Chart, it breaks down attrition rates across various age bands, identifying whether younger or older employees are leaving at higher rates.
 
--**Current Employee by Marital Status and Gender:**
+- **Current Employee by Marital Status and Gender:**
 The chart type is a Table, it illustrates the number of employees that are single, married and divorced by their gender.
-
-                    1[](
+------
 
 ## Dashboard
 
-![](Dashbaord.png)
+![](Dashbaord.png) 
+![](Table.png)
 
-
+---------
 ## Insights
 
 1. **High Turnover in Specific Departments:** The dashboard reveals that the R & D department has the highest attrition rate, indicating a potential need for departmental reviews.
@@ -47,7 +47,7 @@ The chart type is a Table, it illustrates the number of employees that are singl
 3. **Demographic Trends:** Insights into the age bands show that the Under 25 age group has a notably higher attrition rate, prompting HR to investigate potential causes specific to this demographic.
 
 ## Conclusion
-The insights derived from the Employee Attrition Analysis Dashboard can be instrumental for HR decision-making. By understanding the factors influencing employee turnover, HR teams can create targeted strategies to improve job satisfaction and reduce attrition rates across the organization.
+The insights derived from the HR Analytics Dashboard can be instrumental for HR decision-making. By understanding the factors influencing employee turnover, HR teams can create targeted strategies to improve job satisfaction and reduce attrition rates across the organization.
 
 
 
