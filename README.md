@@ -17,7 +17,7 @@ This Power BI dashboard analyzes key HR metrics. It helps identify trends in emp
   This shows trends in employee attrition, helping HR to identify peak periods of turnover.
   
 - **Attrition by Department:**
-The chart tyoe is Donut Chart. This allows for comparison of attrition rates across different departments, highlighting areas that may require further investigation.
+The chart type is Donut Chart. This allows for comparison of attrition rates across different departments, highlighting areas that may require further investigation.
 
 - **Job Satisfaction vs Job Role:**
 Using a matrix table,this visualization illustrate the correlation between job satisfaction scores and the job role, showcasing how dissatisfaction affects employee retention.
@@ -28,6 +28,11 @@ Using a Clustered Bar Chart. This helps to determine number of employees that le
 - **Attrition Rate by Age Band:**
 Using the Stacked Bar Chart, it breaks down attrition rates across various age bands, identifying whether younger or older employees are leaving at higher rates.
 
+-**Current Employee by Marital Status and Gender:**
+The chart type is a Table, it illustrates the number of employees that are single, married and divorced by their gender.
+
+                    1[](
+
 ## Dashboard
 
 ![](Dashbaord.png)
@@ -37,7 +42,7 @@ Using the Stacked Bar Chart, it breaks down attrition rates across various age b
 
 1. **High Turnover in Specific Departments:** The dashboard reveals that the R & D department has the highest attrition rate, indicating a potential need for departmental reviews.
 
-2. **Job Satisfaction Correlation:** Data analysis indicates a negative correlation between job satisfaction and attrition; employees with lower satisfaction scores are more likely to leave.
+2. **Job Satisfaction Correlation:** Data analysis indicates a negative correlation between job satisfaction and attrition, employees with lower satisfaction scores are more likely to leave.
 
 3. **Demographic Trends:** Insights into the age bands show that the Under 25 age group has a notably higher attrition rate, prompting HR to investigate potential causes specific to this demographic.
 
