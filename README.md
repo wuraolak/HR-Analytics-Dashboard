@@ -6,8 +6,10 @@ This Power BI dashboard analyzes key HR metrics. It helps identify trends in emp
 ## Data Description
 - Data includes attrition, business travel, cf age band, cf attrition label, department, education field, employee number, gender, job role, marital status, age, cf current employee, education, employee count, job satisfaction.
 
-## Dashboard
+## Technologies Used:
 
+- **Power BI**: For data visualization.
+- **GitHub**: For documentation.
 
 ## Key Features:
 
@@ -26,10 +28,10 @@ Using a Clustered Bar Chart. This helps to determine number of employees that le
 - **Attrition Rate by Age Band:**
 Using the Stacked Bar Chart, it breaks down attrition rates across various age bands, identifying whether younger or older employees are leaving at higher rates.
 
+## Dashboard
 
-## Technologies Used:
-- **Power BI**: For data visualization.
-- **GitHub**: For documentation.
+![](Dashbaord.png)
+
 
 ## Insights
 
